@@ -1,0 +1,11 @@
+{
+  "name": "Codewars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Corxys/algo_codewars",
+  "author": "Corxys",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
