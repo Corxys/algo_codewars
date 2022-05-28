@@ -11,6 +11,7 @@ classés par ordre de difficulté, allant de `8kyu` (le niveau d'entrée) à `1k
 git clone https://github.com/Corxys/algo_codewars.git
 cd algo_codewars
 npm install
+npm test
 ```
 
 ## Liste des challenges
