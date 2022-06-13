@@ -1,5 +1,5 @@
 export function alphabetPosition(text) {
-  const alphabet = 'abcdefghijklmnopqrstuvwxz'.split('');
+  const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
   
   const string = [];
   
